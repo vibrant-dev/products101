@@ -20,12 +20,12 @@
         <tbody>
           <tr v-for="(product, index) in products" :key="index">
             <td v-for="(key, keyIndex) in Object.keys(product)" :key="keyIndex">
-              <!-- <template v-if="key === 'title'">
-              <a :href="products.links[0].url" target="_blank">
-                {{ products[key] }}
+            <template v-if="key === 'title'">
+              <a :href="product.links[0].url" target="_blank">
+                {{ product[key] }}
               </a>
-            </template> -->
-              <template v-if="key === 'links'">
+            </template>
+              <template v-else-if="key === 'links'">
                 <a
                   v-for="(link, linkIndex) of product[key]"
                   :key="linkIndex"
