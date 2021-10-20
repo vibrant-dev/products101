@@ -12,8 +12,8 @@
     <div class="row">
       <p>
         <NuxtLink to="/laptops">Best Laptops</NuxtLink> <br />
+        <NuxtLink to="/earphones">Best Ear Phones</NuxtLink> <br />
         <NuxtLink to="/phones">Best Phones</NuxtLink> <br />
-        <NuxtLink to="/earphones">Best Ear phonestops</NuxtLink> <br />
       </p>
     </div>
   </div>
