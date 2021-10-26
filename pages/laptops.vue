@@ -105,6 +105,24 @@ export default {
           ],
         },
         {
+          title: "Lenovo IdeaPad Slim 3 (2021)",
+          price: "55,000 *",
+          ram: "8 GB",
+          processor: "AMD Ryzen 5",
+          clock_speed: "2.1 GHz",
+          clock_speed_turbo_boost: "4.0 GHz",
+          hard_disk_size: "512 GB SSD",
+          ram_expandable: "Upto 12 GB",
+          cache: "8 MB",
+          best_use_case: 'Study, Programming and Multi tasking',
+          links: [
+            {
+              name: "Amazon",
+              url: "https://amzn.to/2Zwi1i7",
+            },
+          ],
+        },
+        {
           title: "Lenovo ThinkPad E15",
           price: "69,500 *",
           ram: "8 GB",
