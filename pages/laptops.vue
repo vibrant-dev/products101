@@ -19,6 +19,7 @@
             <th>Size</th>
             <th>RAM Expandle</th>
             <th>Cache</th>
+            <th>Best Use Case</th>
             <th>Links</th>
           </tr>
         </thead>
@@ -77,6 +78,7 @@ export default {
           hard_disk_size: "256 GB SSD",
           ram_expandable: "Upto 16 GB",
           cache: "4 MB",
+          best_use_case: 'Study and Basic multi tasking',
           links: [
             {
               name: "Flipkart",
@@ -94,6 +96,7 @@ export default {
           hard_disk_size: "512 GB SSD",
           ram_expandable: "Upto 16 GB",
           cache: "No Info as of now",
+          best_use_case: 'Study, Programming and Multi tasking',
           links: [
             {
               name: "Amazon",
@@ -111,6 +114,7 @@ export default {
           hard_disk_size: "512 GB SSD",
           ram_expandable: "Upto 32 GB",
           cache: "8 MB",
+          best_use_case: 'Business, Programming and Heavy multi tasking purpose',
           links: [
             {
               name: "Amazon",
