@@ -108,7 +108,7 @@ export default {
           title: "Lenovo IdeaPad Slim 3 (2021)",
           price: "55,000 *",
           ram: "8 GB",
-          processor: "AMD Ryzen 5",
+          processor: "AMD Ryzen 5 5500U",
           clock_speed: "2.1 GHz",
           clock_speed_turbo_boost: "4.0 GHz",
           hard_disk_size: "512 GB SSD",
