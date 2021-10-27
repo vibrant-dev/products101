@@ -63,14 +63,14 @@ export default {
     return {
       products: [
         {
-          title: "Sony MDR-EX150AP Wired",
-          price: "899 *",
+          title: "Samsung EHS64",
+          price: "499 *",
           micro_phone: "Yes",
-          noice_control: "Active Noise Cancellation",
+          noice_control: "--",
           links: [
             {
-              name: "Amazon",
-              url: "https://amzn.to/3pjn6EZ",
+              name: "Samsung",
+              url: "https://www.samsung.com/in/audio-sound/others/headphone-ehs64-ehs64avfbecinu/",
             },
           ],
         },
@@ -87,14 +87,14 @@ export default {
           ],
         },
         {
-          title: "Samsung EHS64",
-          price: "499 *",
+          title: "Sony MDR-EX150AP Wired",
+          price: "899 *",
           micro_phone: "Yes",
-          noice_control: "--",
+          noice_control: "Active Noise Cancellation",
           links: [
             {
-              name: "Samsung",
-              url: "https://www.samsung.com/in/audio-sound/others/headphone-ehs64-ehs64avfbecinu/",
+              name: "Amazon",
+              url: "https://amzn.to/3pjn6EZ",
             },
           ],
         },
