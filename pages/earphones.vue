@@ -86,6 +86,18 @@ export default {
             },
           ],
         },
+        {
+          title: "Samsung EHS64",
+          price: "499 *",
+          micro_phone: "Yes",
+          noice_control: "--",
+          links: [
+            {
+              name: "Samsung",
+              url: "https://www.samsung.com/in/audio-sound/others/headphone-ehs64-ehs64avfbecinu/",
+            },
+          ],
+        },
       ],
     };
   },
