@@ -140,6 +140,24 @@ export default {
             },
           ],
         },
+        {
+          title: "Dell Vostro 5415",
+          price: "56,000 *",
+          ram: "8 GB",
+          processor: "AMD Ryzen 5-5500U",
+          clock_speed: "3.2 GHz",
+          clock_speed_turbo_boost: "--",
+          hard_disk_size: "512 GB SSD",
+          ram_expandable: "Upto 16 GB",
+          cache: "No info as of now",
+          best_use_case: 'Business, Programming and Heavy multi tasking purpose',
+          links: [
+            {
+              name: "Amazon",
+              url: "https://amzn.to/3fURfrD",
+            },
+          ],
+        },
       ],
     };
   },
