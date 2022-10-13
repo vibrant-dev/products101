@@ -123,24 +123,6 @@ export default {
           ],
         },
         {
-          title: "Lenovo ThinkPad E15",
-          price: "69,500 *",
-          ram: "8 GB",
-          processor: "Intel I5 11th gen",
-          clock_speed: "2.4 GHz",
-          clock_speed_turbo_boost: "4.2 GHz",
-          hard_disk_size: "512 GB SSD",
-          ram_expandable: "Upto 32 GB",
-          cache: "8 MB",
-          best_use_case: 'Business, Programming and Heavy multi tasking purpose',
-          links: [
-            {
-              name: "Amazon",
-              url: "https://amzn.to/38sipza",
-            },
-          ],
-        },
-        {
           title: "Dell Vostro 5415",
           price: "56,000 *",
           ram: "8 GB",
@@ -155,6 +137,24 @@ export default {
             {
               name: "Amazon",
               url: "https://amzn.to/3fURfrD",
+            },
+          ],
+        },
+        {
+          title: "Lenovo ThinkPad E15",
+          price: "69,500 *",
+          ram: "8 GB",
+          processor: "Intel I5 11th gen",
+          clock_speed: "2.4 GHz",
+          clock_speed_turbo_boost: "4.2 GHz",
+          hard_disk_size: "512 GB SSD",
+          ram_expandable: "Upto 32 GB",
+          cache: "8 MB",
+          best_use_case: 'Business, Programming and Heavy multi tasking purpose',
+          links: [
+            {
+              name: "Amazon",
+              url: "https://amzn.to/38sipza",
             },
           ],
         },
