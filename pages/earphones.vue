@@ -63,6 +63,18 @@ export default {
     return {
       products: [
         {
+          title: "boAt Bassheads 242",
+          price: "449 *",
+          micro_phone: "Yes",
+          noice_control: "--",
+          links: [
+            {
+              name: "Amazon",
+              url: "https://amzn.to/3rUSpGw",
+            },
+          ],
+        },
+        {
           title: "realme Wired in Ear Buds 2",
           price: "599 *",
           micro_phone: "Yes",
