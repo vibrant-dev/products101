@@ -63,18 +63,6 @@ export default {
     return {
       products: [
         {
-          title: "Samsung EHS64",
-          price: "499 *",
-          micro_phone: "Yes",
-          noice_control: "--",
-          links: [
-            {
-              name: "Samsung",
-              url: "https://www.samsung.com/in/audio-sound/others/headphone-ehs64-ehs64avfbecinu/",
-            },
-          ],
-        },
-        {
           title: "realme Wired in Ear Buds 2",
           price: "599 *",
           micro_phone: "Yes",
