@@ -103,6 +103,23 @@ export default {
             url: "https://www.flipkart.com/motorola-edge-20-fusion-5g-cyber-teal-128-gb/p/itm638d8c580d653?pid=MOBG4RBEYVQGPYPC&cmpid=product.share.pp",
           }],
         },
+        {
+          title: "Redmi Note 11 PRO Plus 5G",
+          price: "19, 953 *",
+          ram: "6 GB",
+          rom: "128 GB",
+          camera: "108MP + 16MP + 2MP | 16MP Front Camera",
+          battery: "5000 mAh",
+          processor: "MediaTek Dimensity 920 (6 nm)",
+          charger: "67W",
+          display_type: "Full HD+ Display",
+          hybrid_slim_slot: "Yes",
+          operating_system: "Android 11",
+          links: [{
+            name: "flipkart",
+            url: "http://dl.flipkart.com/dl/redmi-note-11-pro-plus-5g-stealth-black-128-gb/p/itmd029928dc2e7e?pid=MOBGCQRR6Z8CA6PU&cmpid=product.share.pp",
+          }],
+        },
       ],
     };
   },
