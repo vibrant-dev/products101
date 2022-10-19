@@ -86,6 +86,23 @@ export default {
             url: "http://dl.flipkart.com/dl/realme-8s-5g-universe-blue-128-gb/p/itm79fdf59bdbe44?pid=MOBG5Y94XBCAQYPR&cmpid=product.share.pp",
           }],
         },
+        {
+          title: " MOTOROLA Edge 20 Fusion 5G",
+          price: "18, 999 *",
+          ram: "6 GB",
+          rom: "128 GB",
+          camera: "108MP + 8MP + 2MP | 32MP Front Camera",
+          battery: "5000 mAh",
+          processor: "MediaTek Dimensity 800U Processor",
+          charger: "33W",
+          display_type: "Full HD+ Display",
+          hybrid_slim_slot: "Yes",
+          operating_system: "Android 11",
+          links: [{
+            name: "flipkart",
+            url: "https://www.flipkart.com/motorola-edge-20-fusion-5g-cyber-teal-128-gb/p/itm638d8c580d653?pid=MOBG4RBEYVQGPYPC&cmpid=product.share.pp",
+          }],
+        },
       ],
     };
   },
