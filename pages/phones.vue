@@ -71,7 +71,7 @@ export default {
       phones: [
         {
           title: " realme 8s 5G",
-          price: "14, 999 *",
+          price: "14,999 *",
           ram: "6 GB",
           rom: "128 GB",
           camera: "64MP + 2MP + 2MP | 16MP Front Camera",
@@ -88,7 +88,7 @@ export default {
         },
         {
           title: " MOTOROLA Edge 20 Fusion 5G",
-          price: "18, 999 *",
+          price: "18,999 *",
           ram: "6 GB",
           rom: "128 GB",
           camera: "108MP + 8MP + 2MP | 32MP Front Camera",
@@ -105,7 +105,7 @@ export default {
         },
         {
           title: "Redmi Note 11 PRO Plus 5G",
-          price: "19, 953 *",
+          price: "19,953 *",
           ram: "6 GB",
           rom: "128 GB",
           camera: "108MP + 16MP + 2MP | 16MP Front Camera",
